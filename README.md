@@ -1,4 +1,4 @@
-This are all of my university JAVA projects.
+These are all of my university JAVA projects.
 The followings are listed only for work examination purposes and no further use.
 
 Here you'll find 3 main directories:
