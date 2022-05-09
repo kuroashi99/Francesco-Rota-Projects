@@ -1,0 +1,19 @@
+//-->P1
+  //MOVE: A,D
+  //JUMP: W
+  //BLOCK: S
+  //LIGHT PUNCH: C
+  //LIGHT KICK: F
+  //HEAVY PUNCH: V
+  //HEAVY KICK: G
+
+//-->P2
+  //MOVE: LEFT, RIGHT
+  //JUMP: UP
+  //BLOCK: DOWN
+  //LIGHT PUNCH: N
+  //LIGHT KICK: J
+  //HEAVY PUNCH: M
+  //HEAVY KICK: K
+
+PS: Wait a bit after pressing ENTER or SPACE in the main menu

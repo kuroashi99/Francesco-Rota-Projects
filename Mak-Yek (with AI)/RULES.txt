@@ -1,0 +1,7 @@
+Players take turns moving one of their men horizontally or vertically like the rook in chess (i.e. not through pieces), capturing the opponent's pieces through custodian capture and intervention capture. The captured pieces are removed immediately from the board.
+ 
+If a piece moves between two enemy pieces that are one square apart on a row or column, it captures both pieces.
+
+Intervention capture is the opposite of custodian.
+
+The first player with no pieces left loses

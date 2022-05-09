@@ -1,0 +1,10 @@
+//-->P1
+  //MOVE: A,D
+  //JUMP: W
+  //BLOCK: S
+  //LIGHT PUNCH: C
+  //LIGHT KICK: F
+  //HEAVY PUNCH: V
+  //HEAVY KICK: G
+  //WIN: ENTER
+  //DEAD: SPACE
